@@ -1,4 +1,5 @@
-# products-display
+# products-display (Juniper Coding Assessment)
+A Vue coding assessment for the Front End Developer role at [Juniper by IMC](https://www.junipercommerce.com).
 
 ## Project setup
 ```
